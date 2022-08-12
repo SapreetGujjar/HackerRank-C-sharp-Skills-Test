@@ -1,4 +1,4 @@
 # HackerRank-C#-Basic-
 <hr>
 <br>
-<img src="./C#.png" alt="Sorry">
+<img src="./c#.png" alt="Sorry">
